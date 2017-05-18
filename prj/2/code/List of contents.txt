@@ -1,2 +1,6 @@
 Inventory.java = milestone proposal
 DataMerge.java = is the final project
+
+basebaan.csv = data file
+dep.csv = data file
+rtu_inv.csv = data file
